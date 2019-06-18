@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.Header {
+display:fixed;
+height:11vh;
+background-color: blue;
+}
+.Body {
+  display: fixed;
+top:11vh;
+min-height: 82vh;
+background-color: lightgreen;
+
+}
+.Footer {
+display:relative;
+height:7vh;
+background-color:rebeccapurple;
+
+}
