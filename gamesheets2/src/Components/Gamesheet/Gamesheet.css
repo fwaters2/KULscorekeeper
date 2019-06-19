@@ -1,6 +1,8 @@
 .Gamesheet {
   color:white;
   background-color: darkblue;
+  margin:10px;
+  border-radius:15px;
 }
 .GameClock {
   background-color: pink;
@@ -82,9 +84,6 @@
   width: 0.5em;
   margin: 2px;
   padding: 0px 5px;
-}
-.Drawer {
-  background-color: orangered;
 }
 .History {
   color: white;

@@ -2,6 +2,13 @@ import React, { Component } from "react";
 import "./Gamesheet.css";
 import ScoreBoard from "./ScoreBoard";
 import Timer from "./Timer";
+import Controls from "./Controls";
+import Drawer from "./Drawer/Drawer";
+import History from "./History";
+const HomeTeam = "Galaxy";
+const AwayTeam = "Dubble T's";
+const rosterHome = ["Steve", "Michael", "Trish", "Betty"];
+const rosterAway = ["Juan", "Carlos", "Miguel", "Jorge"];
 
 class Gamesheet extends Component {
   constructor(props) {
@@ -15,13 +22,11 @@ class Gamesheet extends Component {
       clockState: "paused"
     };
   }
-  handleClick = () => {
+  handleGameStart = () => {
     this.setState({
       gameStart: Date.parse(new Date()) / 1000,
       clockState: "unpaused"
     });
-    console.log("triggered");
-    console.log(this.state.clockState)
   };
   render() {
     return (
@@ -30,25 +35,41 @@ class Gamesheet extends Component {
           Title: Gamesheet
           <br />
           This will be the component that will dynamically create any game
-          <div>
-            Sub-Components to include
-            <div className="GameClock">
-              <div>Clock Controls</div>
-              <button onClick={this.handleClick}>Start Game or reset</button>
-              <div>GameStarted:{this.state.gameStart}</div>
-            </div>
-            <ScoreBoard
-              stuff={
-                <Timer
-                  clock={{
-                    state: this.state.clockState,
-                    gameStart: this.state.gameStart
+          <br /> Sub-Components to include
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              justifyContent: "center"
+            }}
+          >
+            <Drawer drawer={{ team: HomeTeam, roster: rosterHome }} />
+            <div
+              className="CentralComponent"
+              style={{ display: "flex", flexDirection: "column" }}
+            >
+              <ScoreBoard
+                stuff={
+                  <Timer
+                    clock={{
+                      state: this.state.clockState,
+                      gameStart: this.state.gameStart
+                    }}
+                  />
+                }
+              />
+              <div className="GameClock">
+                <Controls
+                  controls={{
+                    handleClick: this.handleGameStart,
+                    gameStart: this.state.clockState
                   }}
                 />
-              }
-            />
-            <div className="Drawer">Drawer for Goal or Defense Event</div>
-            <div className="History">Container for Goals or Ds</div>
+              </div>
+              <History />
+            </div>
+            <Drawer drawer={{ team: AwayTeam, roster: rosterAway }} />
           </div>
         </div>
       </div>
