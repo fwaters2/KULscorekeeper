@@ -1,30 +1,44 @@
+/*
+3C3744 dark grey 
+090C9B dark blue
+3066BE lightblue
+B4C5E4 verylight blue
+FBFFF1 offwhite
+*/
 .ChooseGame {
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: brown;
-    margin:10px;
-  border-radius:15px;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FBFFF1;
+  margin: 10px;
+  border-radius: 15px;
 }
-.List-Title{
-    background-color: lightgrey;
-    margin:15px;
-    font-size:18pt;
-
+.List-Title {
+  background-color: #B4C5E4;
+  margin: 15px;
+  font-size: 18pt;
 }
-.List-Container{
-    display:flex;
-    flex-direction: column;
-    background-color:yellow;
-    margin:15px;
-    border-radius:15px;
-
+.List-Container {
+  background-color: #090C9B;
 }
-.List-Item{
-color:white;
-background-color: black;
-margin:5px;
-border-radius: 10px;
-padding:5px;
+
+.List-time {
+  width: 20%;
+  background-color: #3C3744;
+  vertical-align: middle;
+}
+.List-Row {
+  display: flex;
+  flex-direction: row;
+  background-color: #3C3744;
+  margin: 15px;
+  border-radius: 15px;
+}
+.List-Item {
+  color: black;
+  background-color: #B4C5E4;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 5px;
+  width: 35%;
 }

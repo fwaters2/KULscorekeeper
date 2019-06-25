@@ -9,7 +9,7 @@ class History extends Component{
             <div className="History">
                 <div>Container for Goals or Ds</div>
                 <div>
-                    {dLIst.map(x=>(
+                    {this.props.Ds.map(x=>(
                         <div>{x}</div>
                     ))}
                 </div>

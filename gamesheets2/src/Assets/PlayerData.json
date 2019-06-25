@@ -1,0 +1,639 @@
+[
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 150,
+      "Player": "Jeremy Scudder",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 204,
+      "Player": "Jitesh Pattni",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 22,
+      "Player": "David S.",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 12,
+      "Player": "Joann Hsieh 謝承鳳",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 47,
+      "Player": "Joe  莊韋杰",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 95,
+      "Player": "Jonathan CressWell",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 219,
+      "Player": "Michael Smith",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 21,
+      "Player": "Vans  何韋奇",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 9,
+      "Player": "Tom Halina",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 151,
+      "Player": "Blair Duffield",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 64,
+      "Player": "King  黃銘隆",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 92,
+      "Player": "Benson Chen 陳柏呈",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 68,
+      "Player": "Xuan  林雨萱",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 57,
+      "Player": "Seven 李冠錞",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 29,
+      "Player": "Maureen Lin",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 136,
+      "Player": "Jeremy Willemsen",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 155,
+      "Player": "Zach Wildofsky",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 168,
+      "Player": "Shayan Karbasi",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 181,
+      "Player": "Justin Tanz",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 31,
+      "Player": "XiaoFang  方祥瑋",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 199,
+      "Player": "Tsikata Apenyo",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 132,
+      "Player": "Timi Oshikanlu",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 26,
+      "Player": "Vicky Hsiao",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 42,
+      "Player": "Tim Z.",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 229,
+      "Player": "Julia Wei",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 182,
+      "Player": "Francis Tkel",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 235,
+      "Player": "Dave Mardis",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 38,
+      "Player": "Jeremy  張哲銘",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 194,
+      "Player": "Scott Songer",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 218,
+      "Player": "Justin Seminerio",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 4,
+      "Player": "Noah Slater 李明海",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 183,
+      "Player": "Christopher Perrie",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 133,
+      "Player": "Aaike Wu",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 196,
+      "Player": "Yoni Hazan",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 14,
+      "Player": "Tatami Lee 李孟勳",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 152,
+      "Player": "Lenard Chuang 莊彧年",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 188,
+      "Player": "Chi Lun 陳騏綸",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 184,
+      "Player": "Ahmed Hadi",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 217,
+      "Player": "Charles Owers",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 206,
+      "Player": "Allana Randall",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 186,
+      "Player": "Joe Maher",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 66,
+      "Player": "Dinah Su",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 100,
+      "Player": "Woody Cho 卓宣安",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 5,
+      "Player": "Francis Bloom",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 180,
+      "Player": "Kelly Borges",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 228,
+      "Player": "Domingo Kao",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 185,
+      "Player": "Jean Linsky",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 154,
+      "Player": "Roya Cheng",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 202,
+      "Player": "Jessica Jeon",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 138,
+      "Player": "Christine Wang",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 81,
+      "Player": "Jenny Lin",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 147,
+      "Player": "Donna Cheng",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 220,
+      "Player": "Brittney Morris",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 226,
+      "Player": "Teresa Vega",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 65,
+      "Player": "Chad Wierzba",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 153,
+      "Player": "Daniel Neu",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 141,
+      "Player": "Kevin Huang",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 25,
+      "Player": "Sean Lu 呂尚庭",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 225,
+      "Player": "Ted  柯元堂",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 41,
+      "Player": "WTF 黃水發",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 213,
+      "Player": "Jonathan Cassin",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 221,
+      "Player": "Patrick Ferris",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 130,
+      "Player": "Debbie",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 216,
+      "Player": "Derek  Chun-Te Chi",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 193,
+      "Player": "Paul",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 145,
+      "Player": "Kris Ruszkiewics",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 15,
+      "Player": "Daniel Li",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 207,
+      "Player": "Johan Owen Dana",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 203,
+      "Player": "Ava Hung",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 159,
+      "Player": "Patrick Shiller",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 230,
+      "Player": "Vincent Mi 陳鴻翔",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 222,
+      "Player": "Briana Hindle",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 50,
+      "Player": "JD",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 227,
+      "Player": "John Konizeski",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 118,
+      "Player": "Toby Howes",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 223,
+      "Player": "Martin Ga",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 160,
+      "Player": "Claire Lin",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 224,
+      "Player": "Van",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 3,
+      "Player": "Jordan Ellis",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 23,
+      "Player": "Jennifer Wu",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 13,
+      "Player": "Kenny Chao 小籠包",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 16,
+      "Player": "Forrest Waters 水森林",
+      "Team": "Galaxy",
+      "TeamID": 14
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 236,
+      "Player": "John Santangelo",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 237,
+      "Player": "Alastair Wright",
+      "Team": "Annapurna",
+      "TeamID": 15
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 233,
+      "Player": "Lynn  林佑芳",
+      "Team": "Love Train",
+      "TeamID": 18
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 232,
+      "Player": "Adrianne Fang",
+      "Team": "Dubble T's",
+      "TeamID": 17
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 231,
+      "Player": "Oscar  陳冠嚴",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 234,
+      "Player": "Jenna Jarvis",
+      "Team": "Buddha Bellies",
+      "TeamID": 16
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 238,
+      "Player": "Johnny Li 利御廷",
+      "Team": "Road Warriors",
+      "TeamID": 9
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 239,
+      "Player": "Molly Ho",
+      "Team": "Disc Hunters",
+      "TeamID": 19
+    },
+    {
+      "Season": "Spring 2019",
+      "PlayerID": 240,
+      "Player": "Brie Von Rosendahl",
+      "Team": "Galaxy",
+      "TeamID": 14
+    }
+  ]

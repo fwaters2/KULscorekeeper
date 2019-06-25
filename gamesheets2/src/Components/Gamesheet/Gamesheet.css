@@ -1,11 +1,18 @@
+/*
+3C3744 dark grey 
+090C9B dark blue
+3066BE lightblue
+B4C5E4 verylight blue
+FBFFF1 offwhite
+*/
 .Gamesheet {
   color:white;
-  background-color: darkblue;
+  background-color: #090C9B;
   margin:10px;
   border-radius:15px;
 }
 .GameClock {
-  background-color: pink;
+  background-color: #3066BE;
 }
 .smallFont {
   font-size: 8pt;

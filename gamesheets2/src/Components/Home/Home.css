@@ -1,5 +1,12 @@
+/*
+3C3744 dark grey 
+090C9B dark blue
+3066BE lightblue
+B4C5E4 verylight blue
+FBFFF1 offwhite
+*/
 .Home {
-    background-color: lightgray;
+    background-color: #FBFFF1;
     margin:10px;
   border-radius:15px;
 }

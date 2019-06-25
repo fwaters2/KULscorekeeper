@@ -1,21 +1,28 @@
+/*
+3C3744 dark grey 
+090C9B dark blue
+3066BE lightblue
+B4C5E4 verylight blue
+FBFFF1 offwhite
+*/
 .App {
   text-align: center;
 }
 .Header {
 display:fixed;
 height:11vh;
-background-color: blue;
+background-color: #090C9B;
 }
 .Body {
   display: fixed;
 top:11vh;
 min-height: 82vh;
-background-color: lightgreen;
+background-color: #3066BE;
 
 }
 .Footer {
 display:relative;
 height:7vh;
-background-color:rebeccapurple;
+background-color:#090C9B;
 
 }

@@ -19,7 +19,8 @@ class Gamesheet extends Component {
       home: "Team 1",
       away: "Team 2",
       gameStart: "",
-      clockState: "paused"
+      clockState: "paused",
+      currentDs: []
     };
   }
   handleGameStart = () => {
@@ -28,6 +29,11 @@ class Gamesheet extends Component {
       clockState: "unpaused"
     });
   };
+  handleNewD = (e) => {
+    this.setState({
+      currentDs: [...this.state.currentDs,e]
+    })
+  }
   render() {
     return (
       <div className="Gamesheet">
@@ -44,7 +50,13 @@ class Gamesheet extends Component {
               justifyContent: "center"
             }}
           >
-            <Drawer drawer={{ team: HomeTeam, roster: rosterHome }} />
+            <Drawer
+              drawer={{
+                team: this.props.gameInfo.HomeTeam,
+                roster: rosterHome
+              }}
+              handleNewD={this.handleNewD}
+            />
             <div
               className="CentralComponent"
               style={{ display: "flex", flexDirection: "column" }}
@@ -58,18 +70,26 @@ class Gamesheet extends Component {
                     }}
                   />
                 }
+                gameInfo={this.props.gameInfo}
               />
               <div className="GameClock">
                 <Controls
+                  gameInfo={this.props.gameInfo}
                   controls={{
                     handleClick: this.handleGameStart,
                     gameStart: this.state.clockState
                   }}
                 />
               </div>
-              <History />
+              <History Ds={this.state.currentDs}/>
             </div>
-            <Drawer drawer={{ team: AwayTeam, roster: rosterAway }} />
+            <Drawer
+              drawer={{
+                team: this.props.gameInfo.AwayTeam,
+                roster: rosterAway
+              }}
+              handleNewD={this.handleNewD}
+            />
           </div>
         </div>
       </div>

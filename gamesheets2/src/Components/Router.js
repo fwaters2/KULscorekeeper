@@ -7,18 +7,26 @@ class Router extends Component{
     constructor(props){
         super(props)
         this.state={
-            currentPage:"Home"
+            currentPage:"Home",
+            game:""
         }
     }
+    chooseGame=newGame=>{
+        this.setState({
+            game: newGame
+        })
+        console.log(newGame)
+    }
     render(){
+
         switch(this.state.currentPage){
             case "Home":
                 return <div>
                     <div>Title: Temp Router</div>
                     <div>Explanation: Easily view components in one place during Dev</div>
                     <Home />
-                    <ChooseGame />
-                    <Gamesheet />
+                    <ChooseGame gameChoice={this.chooseGame}/>
+                    <Gamesheet gameInfo={this.state.game}/>
                 </div>
         }
     }

@@ -4,8 +4,7 @@ import React from "react";
 function ScoreBoard(props) {
   //imported from props
   const stuff = {
-    home: "Galaxy",
-    away: "Dubble T's",
+
     homeScore: 12,
     awayScore: 15,
     time: "12:34",
@@ -20,7 +19,7 @@ function ScoreBoard(props) {
     <div className="Scoreboard">
       <div className="Scores">
         <div className="Panel Border">
-          <div className="TeamName">{stuff.home}</div>
+          <div className="TeamName">{props.gameInfo.HomeTeam}</div>
           <div className="Score">
             <div className="Digital Digit">{homeScoreTens}</div>
             <div className="Digital Digit">{homeScoreOnes}</div>
@@ -34,7 +33,7 @@ function ScoreBoard(props) {
           <div className="Digital Time Border">{props.stuff}</div>
         </div>
         <div className="Panel Border">
-          <div className="TeamName">{stuff.away}</div>
+          <div className="TeamName">{props.gameInfo.AwayTeam}</div>
           <div className="Score">
             <div className="Digital Digit">{awayScoreTens}</div>
             <div className="Digital Digit">{awayScoreOnes}</div>
